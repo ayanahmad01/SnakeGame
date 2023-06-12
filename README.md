@@ -30,6 +30,8 @@
 
 7.The styling of the project includes a window with a container for the game.
 
+
+
 #Functionalities of the Project:
 
 1.An initial three-dot snake, a red dot for the head, green dots for the body, and a random apple for the food-  
