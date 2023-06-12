@@ -30,7 +30,7 @@
 
 7.The styling of the project includes a window with a container for the game.
 
-#Working of Project:
+#Functionalities of the Project:
 
 1.An initial three-dot snake, a red dot for the head, green dots for the body, and a random apple for the food-  
 
@@ -55,14 +55,3 @@
 6.Snake collided with the wall and the game gets over-
 
 ![6](https://github.com/ayanahmad01/SnakeGame/assets/136154821/92ec0d91-582a-4bbb-bbc3-1efee4eaa0aa)
-
-
-
-
-
-
-
-
-
-
-
